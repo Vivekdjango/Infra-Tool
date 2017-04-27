@@ -1,0 +1,88 @@
+
+.container
+{
+	width:200px;
+}
+.wrapper
+{
+	width:900px;
+}
+
+.dataTables_filter {
+   width: 30%;
+   float: right;
+   text-align: right;
+   display:inline-block;
+   white-space:nowrap;
+
+}
+
+
+
+.dataTables_length label 
+{ 
+
+	display: none; 
+
+}
+
+
+.dataTables_paginate
+{
+	display: none;
+}
+
+
+body
+{
+}
+
+.dark
+{
+	background-color:#003366;
+}
+.container-fluid ul
+{
+	margin-top:2px;
+	padding:2px;
+}
+.container-fluid ul li
+{
+	display:inline-block;
+	height:50px;
+	line-height:50px;
+	background-color:#003366;
+	width:200px;
+	font-family: 'Lobster Two', cursive;
+	position:relative;
+	font-size:20px;
+}
+.container-fluid ul li a
+{
+	color:white;
+        text-decoration:none;
+        display:block;
+	text-align:center;
+}
+.container-fluid ul li a:hover
+{
+	background-color:white;
+	color:#003366;
+}
+h2
+{
+	margin-top:20px;
+	color:white;
+	font-family: 'Lobster Two', cursive;
+}
+.container-fluid ul ul
+{
+	position:absolute;
+	margin:0px;
+	padding:0px;
+	display:none;
+}
+.container-fluid ul li:hover ul
+{
+	display:block;
+}

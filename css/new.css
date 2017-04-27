@@ -1,0 +1,34 @@
+
+.container
+{
+	width:200px;
+}
+.wrapper
+{
+	width:900px;
+}
+
+.dataTables_filter {
+	display: none;
+}
+
+
+
+
+
+body
+{
+}
+
+.dark
+{
+	background-color:#003366;
+	border-radius: 5px;
+}
+h2
+{
+	margin-top:20px;
+	color:white;
+	font-family: 'Orbitron', sans-serif;
+
+}
